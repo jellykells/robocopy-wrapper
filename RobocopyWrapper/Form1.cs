@@ -31,6 +31,14 @@ namespace RobocopyWrapper
             }
         }
 
+        private void ButtonBrowseDestination_Click(object sender, EventArgs e)
+        {
+            if (FolderBrowserDialogDestination.ShowDialog() == DialogResult.OK)
+            {
+                TextBoxDestination.Text = FolderBrowserDialogDestination.SelectedPath;
+            }
+        }
+
         private void FolderBrowserDialogSource_HelpRequest(object sender, EventArgs e)
         {
 
@@ -63,5 +71,6 @@ namespace RobocopyWrapper
                 Console.WriteLine("File Not Found");
             }
         }
+
     }
 }
