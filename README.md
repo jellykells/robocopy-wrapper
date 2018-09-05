@@ -3,7 +3,7 @@ A GUI and System Tray utility for Microsoft's Robocopy tool.
 
 ## Getting Started
 ### 1. Installation
-The program has not yet been released, nor has there been made available any installer or precompiled binaries. To run the program in its current state, clone or download this repository, open the solution file ('RobocopyWrapper.sln') in Visual Studio, and press F5.
+The program has not yet been released, nor has there been made available any installer or precompiled binaries. To run the program in its current state, clone or download this repository, open the solution file (`RobocopyWrapper.sln`) in Visual Studio, and press F5.
 ### 2. Dependencies
 This program requires at least Microsoft .NET Framework 4. If you do not already have it installed, you can download it from Microsoft from the links below.
 
