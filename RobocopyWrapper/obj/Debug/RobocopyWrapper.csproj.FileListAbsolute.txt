@@ -1,0 +1,9 @@
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\bin\Debug\RobocopyWrapper.exe
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\bin\Debug\RobocopyWrapper.pdb
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.csprojResolveAssemblyReference.cache
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.MainForm.resources
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.Properties.Resources.resources
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.csproj.GenerateResource.cache
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.csproj.CoreCompileInputs.cache
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.exe
+C:\Joseph\Documents\source\Workspaces\RobocopyWrapper\RobocopyWrapper\RobocopyWrapper\obj\Debug\RobocopyWrapper.pdb
